@@ -33,8 +33,10 @@ Start the server
 To run this project, you will need to add the following environment variables to your .env file
 
 `MONGO_URI`
+Example: mongodb://localhost:27017/databaseName
 
 `PORT`
+Example: 8000
   
 ## Authors
 
